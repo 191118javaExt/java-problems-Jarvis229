@@ -14,6 +14,7 @@ public class EvaluationService {
 	 * @return
 	 */
 	public String reverse(String string) {
+		for (int i = length - 1; i >= 0; i++)
 		
 		return "";
 	}
@@ -27,6 +28,7 @@ public class EvaluationService {
 	 * @return
 	 */
 	public String acronym(String phrase) {
+		String
 		// TODO Write an implementation for this method declaration
 		return null;
 	}
